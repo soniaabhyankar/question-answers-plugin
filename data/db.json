@@ -1,0 +1,34 @@
+{
+	"questions": [
+		{
+			"id": 1,
+			"title": "What is an apple?",
+			"description": "Please tell me what an apple is. I am stupid.",
+			"userName": "Sonia",
+			"answers": [
+				{
+					"description": "Apple is a fruit you dumbass.",
+					"userName": "Nikita"
+				},
+				{
+					"description": "Apple is also a computer 🤦‍♀️",
+					"userName": "Riya"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"title": "What is an apple??",
+			"description": "Please tell me what an apple is. I am stupid.",
+			"userName": "Sonia",
+			"answers": []
+		},
+		{
+			"id": 3,
+			"title": "What is an apple???",
+			"description": "Please tell me what an apple is. I am stupid.",
+			"userName": "Sonia",
+			"answers": []
+		}
+	]
+}
