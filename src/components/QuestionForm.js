@@ -6,7 +6,11 @@ import { v4 as uuidv4 } from 'uuid';
 
 
 const QuestionForm = () => {
-	const [state, setState] = useState({});
+	const [state, setState] = useState({
+		question: "",
+		description: "",
+		username: ""
+	});
 
 	const handleInputChange = (input) => (e) => {
 		setState({ ...state, [input]: e.target.value });
